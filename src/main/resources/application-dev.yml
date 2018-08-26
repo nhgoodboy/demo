@@ -11,7 +11,7 @@ server:
 
 
 
-girl:
+girl:         #自定义属性
   cupSize: F
   age: 18
   height: 160

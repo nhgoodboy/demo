@@ -8,8 +8,9 @@ import org.springframework.context.annotation.Configuration;
  * Author: YJZ
  * DateTime: 2018/4/13 10:45
  **/
-@Configuration
+@Configuration     //等于spring的applicationContext。xml
 public class WebMvcConfigurer extends WebMvcAutoConfiguration {
+
 
 
 }
